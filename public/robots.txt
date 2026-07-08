@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Admin sayfalarına bot erişimini engelle
+Disallow: /admin
+Disallow: /login
+
+# Sitemap
+Sitemap: https://bereketlimetal.online/sitemap.xml
